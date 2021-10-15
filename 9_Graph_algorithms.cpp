@@ -253,6 +253,8 @@ int main()
 }
 
 /*
+  ----------------------------------------------------------------------------------------------------------------------------------
+
   Enter the value of vectices in the graph :5
   Enter the value of edges in the graph :7
   Enter the value of both edges included :
