@@ -134,6 +134,7 @@ int main() //main function
 	return 0; 
 }
 
+/*
 --------------------------------------------------------------------------------------------------------------------------
 OUTPUT :
 
@@ -200,3 +201,4 @@ Deleted element from queue is 6
 
 ...Program finished with exit code 0
 Press ENTER to exit console.
+*/
