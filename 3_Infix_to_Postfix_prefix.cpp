@@ -366,6 +366,7 @@ int eval_pre(char a[])
  	}
  }
 
+/*
 ---------------------------------------------------------------------------------------------------------------------------
 OUTPUT : 
 
@@ -383,3 +384,4 @@ Enter Infix expression:
 Hence, Postfix Expression is: 
 [a b c * + c d b * - / ]
 ----Operation Completed!! ThankYou----
+*/
