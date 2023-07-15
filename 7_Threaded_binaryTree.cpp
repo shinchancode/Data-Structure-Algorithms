@@ -1,6 +1,7 @@
 /*AARTI RATHI
 Topic: Threaded Binary Tree
-My website - https://aartirathi17.herokuapp.com/ */
+My website - https://shinchancode.github.io/3d-react-portfolio/
+*/
 
 /*Problem Statement : 
 
