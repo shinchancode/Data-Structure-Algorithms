@@ -1,6 +1,7 @@
 /* AARTI RATHI 
 Topic: Implementation of graph using dynamic arrays
-My website - https://aartirathi17.herokuapp.com/ */
+My website - https://shinchancode.github.io/3d-react-portfolio/
+*/
 
 /* Problem Statement :
 Implementation of graph using dynamic arrays (vector in C++) to represent adjacency lists instead of the linked list.
