@@ -1,6 +1,7 @@
 /* AARTI RATHI 
 Topic: Student database and sorting 
-My website - https://aartirathi17.herokuapp.com/ */ 
+My website - https://shinchancode.github.io/3d-react-portfolio/
+*/ 
 
 
 /* Problem Statement : 
