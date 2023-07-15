@@ -1,6 +1,7 @@
 /* AARTI RATHI 
 Topic: Binary Search Tree 
-My website - https://aartirathi17.herokuapp.com/ */
+My website - https://shinchancode.github.io/3d-react-portfolio/
+*/
 
 /* Problem Statement : 
 Implement binary search tree and perform following operations:
